@@ -1,9 +1,0 @@
-.custom-position {
-  position: fixed;
-  right: 10px; /* 右侧间隔10像素 */
-  top: 100px;
-}
-
-.hidden{
-  display: none;
-}
